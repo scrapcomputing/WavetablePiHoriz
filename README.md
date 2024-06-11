@@ -10,10 +10,14 @@ For a complete feature list please refer to the [mt32-pi](https://github.com/dwh
 <img src='img/WavetablePi.svg' alt='WavetablePi Schematic' height=440 width=auto>
 </p>
 
+- 5.25 drive bay faceplates (by Michael Swimm) https://www.thingiverse.com/thing:6652143
+
 # New Features
 - This version also includes headers for the mt32-pi buttons and rotary encoder.
 
 # Bill of materials
+
+The gerber can be found in the [releases](https://github.com/scrapcomputing/WavetablePiHoriz/releases)
 
 Item                                     | #   | Description
 -----------------------------------------|-----|-----------------------------------------
