@@ -5,6 +5,8 @@ It is a wavetable module based on the Raspberry Pi Zero 2 W running [mt32-pi](ht
 It is capable of emulating several midi synthesizers, including mt32, sc55 and general midi with custom sound fonts.
 For a complete feature list please refer to the [mt32-pi](https://github.com/dwhinham/mt32-pi) project.
 
+An assembly guide can be found [here](assembly.md).
+
 <img src='img/WavetablePiHoriz_PCB_front.jpg' alt='WavetablePi PCB Front' height=240 width=auto>
 <img src='img/WavetablePiHoriz_PCB_back.jpg' alt='WavetablePi PCB Back' height=240 width=auto>
 <img src='img/WavetablePi.svg' alt='WavetablePi Schematic' height=440 width=auto>
